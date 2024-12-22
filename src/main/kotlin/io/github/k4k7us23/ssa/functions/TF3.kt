@@ -1,4 +1,4 @@
-package com.k4k7us23.io.github.k4k7us23.functions
+package com.k4k7us23.io.github.k4k7us23.ssa.functions
 
 class TF3(dimensions: Int): TargetFunction(dimensions) {
     override val leftBound = -10.0

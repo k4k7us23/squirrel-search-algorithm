@@ -1,10 +1,10 @@
 package com.k4k7us23
 
-import com.k4k7us23.io.github.k4k7us23.SquirrelSearchAlgorithm
-import com.k4k7us23.io.github.k4k7us23.functions.TF1
-import com.k4k7us23.io.github.k4k7us23.functions.TF2
-import com.k4k7us23.io.github.k4k7us23.functions.TF3
-import com.k4k7us23.io.github.k4k7us23.functions.TargetFunction
+import com.k4k7us23.io.github.k4k7us23.ssa.SquirrelSearchAlgorithm
+import com.k4k7us23.io.github.k4k7us23.ssa.functions.TF1
+import com.k4k7us23.io.github.k4k7us23.ssa.functions.TF2
+import com.k4k7us23.io.github.k4k7us23.ssa.functions.TF3
+import com.k4k7us23.io.github.k4k7us23.ssa.functions.TargetFunction
 
 fun handleFunction(targetFunction: TargetFunction) {
     val squirrelSearchAlgorithm = SquirrelSearchAlgorithm(

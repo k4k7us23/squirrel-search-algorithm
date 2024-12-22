@@ -1,4 +1,4 @@
-package com.k4k7us23.io.github.k4k7us23.functions
+package com.k4k7us23.io.github.k4k7us23.ssa.functions
 
 abstract class TargetFunction(val dimensions: Int) {
 

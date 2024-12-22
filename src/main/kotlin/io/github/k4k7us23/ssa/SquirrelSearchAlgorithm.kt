@@ -1,6 +1,6 @@
-package com.k4k7us23.io.github.k4k7us23
+package com.k4k7us23.io.github.k4k7us23.ssa
 
-import com.k4k7us23.io.github.k4k7us23.functions.TargetFunction
+import com.k4k7us23.io.github.k4k7us23.ssa.functions.TargetFunction
 import java.util.*
 import kotlin.collections.ArrayList
 import kotlin.math.pow

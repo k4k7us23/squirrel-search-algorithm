@@ -1,4 +1,4 @@
-package com.k4k7us23.io.github.k4k7us23
+package com.k4k7us23.io.github.k4k7us23.ssa
 
 import java.util.ArrayList
 import kotlin.math.sqrt
